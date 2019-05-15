@@ -1,6 +1,8 @@
 # KVideoPlayer
 Play Multiple local/URL videos using AVPlayer like facebook, instagram. On scrolling horizontally, previous video will pause and the current will start playing smoothly.
 
+NOTE: You can easily use to have only one player for all items or separate player for each items
+
 Sample Video -
 
 ![video](https://user-images.githubusercontent.com/16478904/57778633-1b3c6300-7742-11e9-82de-c6fbd9b0f238.gif)
